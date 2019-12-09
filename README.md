@@ -39,7 +39,7 @@ When you're done, push your changes to your repo and send us your answers to the
 
 
 ## Why did you choose the packages you installed (or why did you not use any)?
-- I chose to install a package called next-sass that is designed to work with next js. 
+- I chose to install a package called next-sass that is designed to work with Next.js. 
 
 ## How long did this work take you?
 - About 4 hours. I set a timer and stopped when it hit 4 hours. 
