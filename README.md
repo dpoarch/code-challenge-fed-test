@@ -39,19 +39,19 @@ When you're done, push your changes to your repo and send us your answers to the
 
 
 ## Why did you choose the packages you installed (or why did you not use any)?
-- I choose to install a package for called next-sass that is designed to work for next js. 
+- I chose to install a package called next-sass that is designed to work with next js. 
 
 ## How long did this work take you?
-- About 4 hours. I set a timer and stopped when it hits 4 hours. 
+- About 4 hours. I set a timer and stopped when it hit 4 hours. 
 
 ## What did you get stuck on or what was the most difficult part?
-- I didn't really have a blocker except for the part where I have to use a scss file, I need to use a loader for it to work. Also styling can take some time - you sometimes don't realize that it's eating a lot of time.
+- I didn't really have a blocker except for the part where I had to use a scss file.  I needed to use a loader for it to work.  Also styling can take some time -- you sometimes don't realize that it's eating a lot of time.
 
 ## What was the easiest or fastest part?
-- The easiest is probably running the website - running the local server. 
+- The easiest part was probably running the website -- running the local server. 
 
 ## If you had more time, what would you like to have implemented?
-- I wish I could have styled it more. Or added prettier stylings. I also wish that I have more time to add form validations. 
+- I wish I could have styled it more or added prettier stylings. I also wish that I had more time to add form validations. 
 
 ## What did you have to research or look up to complete this?
 - On how to add a sass loader in the webpack config. 
